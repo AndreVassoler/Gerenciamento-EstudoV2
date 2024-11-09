@@ -1,2 +1,4 @@
 flutter pub get
+npm i json-server
+npm i http  
 json-server --watch db.json --port 3000
